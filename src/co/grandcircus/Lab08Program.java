@@ -2,6 +2,8 @@ package co.grandcircus;
 
 import java.util.Scanner;
 
+import java.util.InputMismatchException;
+
 public class Lab08Program {
 
 	public static void main(String[] args) {
